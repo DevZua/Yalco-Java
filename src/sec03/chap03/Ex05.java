@@ -1,4 +1,4 @@
-package sec04.chap03;
+package sec03.chap03;
 
 public class Ex05 {
 
